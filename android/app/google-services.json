@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "737111266108",
+    "project_id": "xpenz-bf279",
+    "storage_bucket": "xpenz-bf279.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737111266108:android:9b60dd5c12eea5d0634439",
+        "android_client_info": {
+          "package_name": "com.example.expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737111266108-90meh0cpol0g7ggn9tgvmjmm0gnakvlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense",
+            "certificate_hash": "a898fef7a693c26df52ee01d52088196b45e3d06"
+          }
+        },
+        {
+          "client_id": "737111266108-1mmua1sgcoj413oa9aaj0b3ur715e079.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqIcWt1meYBvBudBNIq7xyeHx_aD1IBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737111266108-1mmua1sgcoj413oa9aaj0b3ur715e079.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737111266108-h5ab26bktignrqs9egbjmt1brp3049s7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expense"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
