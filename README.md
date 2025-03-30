@@ -1,16 +1,37 @@
-# expense
+# 💰 Expense Tracker App
 
-A new Flutter project.
+A simple and intuitive **Expense Tracker App** built with **Flutter**, featuring **Hive database** for local storage and **Firebase Authentication** for user login.  
 
-## Getting Started
+## 📸 Screenshots  
+*(Add your app screenshots here)*  
 
-This project is a starting point for a Flutter application.
+## 📥 Download APK  
+ 
+*(Replace `YOUR_APK_LINK_HERE` with the actual APK link when available)*  
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features  
+✔️ **Track Expenses & Income** – Add and manage transactions with categories.  
+✔️ **Dynamic Insights & Trends** – View spending breakdown with **Pie Charts & Bar Graphs**.  
+✔️ **Swipe to Delete** – Remove transactions seamlessly with a swipe gesture.  
+✔️ **Firebase Authentication** – Secure login/signup with **Email & Google Sign-In**.  
+✔️ **Hive Database** – Offline-first local storage with **instant updates**.  
+✔️ **Modern UI** – Minimalistic and elegant design with smooth animations.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack  
+- **Flutter** – Frontend UI  
+- **Hive** – Local storage  
+- **Firebase Auth** – User authentication  
+- **FL Chart** – Data visualization  
+- **GetX / Provider** – State management  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation  
+### 🔹 Prerequisites  
+- Install **Flutter** & **Dart SDK**  
+- Setup **Android Studio** or **VS Code** with Flutter  
+
+### 🔹 Clone & Run  
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/expense_tracker.git
+cd expense_tracker
+flutter pub get
+flutter run
