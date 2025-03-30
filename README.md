@@ -2,12 +2,9 @@
 
 A simple and intuitive **Expense Tracker App** built with **Flutter**, featuring **Hive database** for local storage and **Firebase Authentication** for user login.  
 
-## 📸 Screenshots  
-*(Add your app screenshots here)*  
-
 ## 📥 Download APK  
  
-*(Replace `YOUR_APK_LINK_HERE` with the actual APK link when available)*  
+(https://github.com/Harsh-Techie31/cipherX/releases/download/version-1/app-arm64-v8a-release.apk)
 
 ## ✨ Features  
 ✔️ **Track Expenses & Income** – Add and manage transactions with categories.  
